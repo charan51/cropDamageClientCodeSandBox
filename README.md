@@ -1,2 +1,0 @@
-# cropDamageClientCodeSandBox
-Created with CodeSandbox
